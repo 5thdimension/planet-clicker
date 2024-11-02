@@ -1,0 +1,4 @@
+repository "planet-clicker@unity_5thvortex@cloud"
+  path "/"
+    br "/main"
+    co "/main"
